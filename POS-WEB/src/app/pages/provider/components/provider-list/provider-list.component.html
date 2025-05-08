@@ -1,0 +1,81 @@
+<!-- //////***PROVEEDOR - PASO 11 */ -->
+<!-- //DISENO DEL FRONTEND DE LISTA DE PROVEEDOR -->
+
+<!-- CONTENIDOS -->
+<div class="w-full h-full flex flex-col">
+    <!-- TITULO -->
+    <div class="px-gutter pt-1 pb-20 bg-primary flex-none">
+      <div class="flex items-center justify-between" >
+        <h2 class="headline text-primary-contrast m-0 flex items-center w-full max-w-xxl mr-6">
+        <ic-icon @scaleIn [icon]="component.icProvider" class="hidden sm:block" ></ic-icon>
+          <span @fadeInRight class="ml-4 block">Gestion de Proveedor</span>
+        </h2>
+        <!-- FILTRO BUSCADOR POR NOMBRE Y DESCRIPCION - REUTILIZAMOS EL COMPONENTE BUSCADOR  -->
+        <div class="flex items-center justify-end w-full mt-5">
+           <!-- buscar por rango de fecha -->
+            <div class="flex justify-between">
+              <app-filter-date-range-ymd
+                (rangeDate)="searchDateRange($event)"
+                [start]="component.filters.startDate"
+                [end]="component.filters.endDate"
+              >
+              </app-filter-date-range-ymd>
+              <!-- resetear la fecha -->
+              <app-button-reset-filters
+              (buttonClick)="resetFilters()"
+            >
+            </app-button-reset-filters>
+            </div>
+            <!-- buscar por nombre y descripcion -->
+            <div class="flex justify-between ml-6">
+              <app-search-box-multiple 
+                [searchOptions]="component.searchOptions" 
+                (search)="search($event)"
+                [currentValue]="component.filters.textFilter">
+              </app-search-box-multiple>
+            </div>
+            <div>
+              <app-export-excel 
+              [url]="getDonwloadUrl" 
+              [getInputs]="component.getInputs" 
+              [filename]="component.filename"
+              >
+              </app-export-excel>
+            </div>
+        </div>
+      </div>
+    </div>
+    <!-- CUERPO -->
+    <div class="-mt-14 pt-0 overflow-hidden flex" >
+      <mat-drawer-container class="bg-transparent flex-auto flex">
+        <mat-drawer-content class="p-gutter pt-0 flex-auto flex items-start">
+          <!--MODULO DE AGREGAR Y FILTRO DE BUSCADOR POR ESTADO -->
+          <app-menu
+            class="hidden sm:block mr-6"
+            [currentMenu]="component.getInputs.stateFilter"
+            [items]="component.menuItems"
+            [buttonShow]="true"
+            buttonLabel="AGREGAR"
+            (filterChange)="setMenu($event)"
+            (buttonClick)="openDialogRegister()"
+            >
+          </app-menu>
+  
+          <div class="card h-full overflow-hidden flex-auto">
+            <!-- TABLA -->
+            <!-- INYECTAMOS TODAS LAS CONFIGURACION QUE CREAMOS -->
+            <app-list-table
+                (rowClick)="rowClick($event)"
+                [service]="_providerServices"
+                [columns]="component.tableColumns"
+                [sortBy]="component.initialSort"
+                [sortDir]="component.initialSortDir"
+                [getInputs]="component.getInputs"
+            >
+            </app-list-table>
+          </div>
+        </mat-drawer-content>
+      </mat-drawer-container>
+    </div>
+  </div>
+  

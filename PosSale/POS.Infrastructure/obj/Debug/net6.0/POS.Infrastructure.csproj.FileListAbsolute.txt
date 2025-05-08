@@ -1,0 +1,17 @@
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.AssemblyReference.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfoInputs.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfo.cs
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.deps.json
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CopyComplete
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll

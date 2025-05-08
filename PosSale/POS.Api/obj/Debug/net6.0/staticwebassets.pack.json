@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Sistamas Web\\Angular_2023\\Angular-.NET\\Sistema Ventas\\PosSale\\POS.Api\\wwwroot\\products\\de9a9f8b-341f-4f4f-b858-1fe585b0c757.png",
+      "PackagePath": "staticwebassets\\products\\de9a9f8b-341f-4f4f-b858-1fe585b0c757.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.POS.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.POS.Api.props",
+      "PackagePath": "build\\POS.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.POS.Api.props",
+      "PackagePath": "buildMultiTargeting\\POS.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.POS.Api.props",
+      "PackagePath": "buildTransitive\\POS.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

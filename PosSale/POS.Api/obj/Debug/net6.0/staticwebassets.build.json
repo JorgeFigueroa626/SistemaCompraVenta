@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "SKz8tgW4AhYtTicZQ/it/KU5HhizuDDbvMbbJ2I33zk=",
+  "Source": "POS.Api",
+  "BasePath": "_content/POS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "POS.Api\\wwwroot",
+      "Source": "POS.Api",
+      "ContentRoot": "E:\\Sistamas Web\\Angular_2023\\Angular-.NET\\Sistema Ventas\\PosSale\\POS.Api\\wwwroot\\",
+      "BasePath": "_content/POS.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Sistamas Web\\Angular_2023\\Angular-.NET\\Sistema Ventas\\PosSale\\POS.Api\\wwwroot\\products\\de9a9f8b-341f-4f4f-b858-1fe585b0c757.png",
+      "SourceId": "POS.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Sistamas Web\\Angular_2023\\Angular-.NET\\Sistema Ventas\\PosSale\\POS.Api\\wwwroot\\",
+      "BasePath": "_content/POS.Api",
+      "RelativePath": "products/de9a9f8b-341f-4f4f-b858-1fe585b0c757.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\de9a9f8b-341f-4f4f-b858-1fe585b0c757.png"
+    }
+  ]
+}

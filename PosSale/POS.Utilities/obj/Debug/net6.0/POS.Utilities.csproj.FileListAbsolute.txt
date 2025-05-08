@@ -1,0 +1,12 @@
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+E:\Sistamas Web\Angular_2023\Angular-.NET\Sistema Ventas\PosSale\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll

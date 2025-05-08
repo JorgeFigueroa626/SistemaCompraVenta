@@ -1,0 +1,3 @@
+# Ignorar archivos de configuración con secretos
+appsettings.json
+appsettings.Development.json
